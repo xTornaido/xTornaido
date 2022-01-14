@@ -19,11 +19,11 @@
 
 ### Hobbies
 
-I like to program, play video games in my spare time and travel! I also like animals.
+I like to program, play video games in my spare time and travel! I also like to play badminton.
 
 ## About
 
-Hey! I'm Tornaido, a 13 year old self taught passionate software engineer from Pakistan. I've been programming since 2020 and have loved it ever since.
+Hey! I'm Tornaido, a 13 year old self taught passionate software engineer from Pakistan. I've been programming since 2020 and have loved it ever since. I really like animals and I have a pet dog myself, a female german shepherd, Blacky.
 
 ## Projects
 
