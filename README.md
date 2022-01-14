@@ -9,6 +9,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![C#](https://img.shields.io/badge/-C-000?&logo=CSharp)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 
 ### Technologies
 
