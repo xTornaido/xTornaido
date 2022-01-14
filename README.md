@@ -25,6 +25,10 @@ I like to program, play video games in my spare time and travel!
 
 Hey! I'm Tornaido, a software engineer.
 
+## Contacts
+
+[![](https://img.shields.io/badge/-Tornaido#3570-000?&logo=discord)](https://discord.com/channels/@me)
+
 ## Projects
 
 [![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/xTornaido/Heartbleed)
