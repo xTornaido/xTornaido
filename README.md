@@ -14,11 +14,11 @@
 
 ### Technologies
 
-[![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)]
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)]
-[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)]
-[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)]
+[![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)](https://aws.amazon.com)
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)](https://www.kubernetes.io)
+[![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://www.linux.org)
+[![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://www.nodejs.org)
 
 ### Hobbies
 
