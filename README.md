@@ -1,6 +1,6 @@
 <a href="https://tornaido.io"><img align="left" alt="GIF" src="https://raw.githubusercontent.com/xTornaido/xTornaido/master/code.gif" width="500" height="320" /></a>
 
-### Skills
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
