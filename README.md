@@ -19,7 +19,7 @@
 
 ### Hobbies
 
-I like to program, play video games in my spare time and travel!
+I like to program, play video games in my spare time and travel! I also like animals.
 
 ## About
 
