@@ -22,6 +22,10 @@
 
 I like to program, play video games in my spare time and travel!
 
+## Projects
+
+![null](https://img.shields.io/badge/-null-000?&logo=null)
+
 ### About
 
 Hey! I'm Tornaido, a software engineer.
