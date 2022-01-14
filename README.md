@@ -18,6 +18,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)](https://www.kubernetes.io)
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://www.linux.org)
+[![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows)](https://www.microsoft.com/windows)
 [![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)](https://www.nodejs.org)
 
 ### Hobbies
