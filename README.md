@@ -10,7 +10,7 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)](https://www.mongodb.com)
 [![C#](https://img.shields.io/badge/-C-000?&logo=CSharp)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://www.html.com)
-[![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)](https://en.wikipedia.org/wiki/CSS)
+[![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)](https://en.wikipedia.org/wiki/CSS)
 
 ### Technologies
 
