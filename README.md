@@ -7,6 +7,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 ### Technologies
 
@@ -22,7 +23,7 @@ I like to program, play video games in my spare time and travel!
 
 ## About
 
-Hey! I'm Tornaido, a software engineer. I live in Pakistan and I really love programming and have been programming since 2020.
+Hey! I'm Tornaido, a 13 year old passionate software engineer from Pakistan.
 
 ## Projects
 
