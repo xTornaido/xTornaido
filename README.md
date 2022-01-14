@@ -27,7 +27,7 @@ Hey! I'm Tornaido, a software engineer.
 
 ## Contacts
 
-[![](https://img.shields.io/badge/-Discord-000?&logo=discord)](https://discord.com/channels/@me)
+[![](https://img.shields.io/badge/-Discord-000?&logo=discord)](https://discord.com/channels/@me) Arsenal#3570
 
 ## Projects
 
