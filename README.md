@@ -27,7 +27,7 @@ Hey! I'm Tornaido, a software engineer.
 
 ## Contacts
 
-[![](https://emoji.discord.st/emojis/discord.png)](https://discord.com/channels/@me)
+[![hi](https://emoji.discord.st/emojis/discord.png)](https://discord.com/channels/@me)
 
 ## Projects
 
