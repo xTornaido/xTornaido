@@ -23,7 +23,7 @@ I like to program, play video games in my spare time and travel!
 
 ## About
 
-Hey! I'm Tornaido, a 13 year old passionate software engineer from Pakistan. I've been programming since 2020 and have loved it ever since.
+Hey! I'm Tornaido, a 13 year old self taught passionate software engineer from Pakistan. I've been programming since 2020 and have loved it ever since.
 
 ## Projects
 
