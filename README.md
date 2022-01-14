@@ -22,7 +22,7 @@ I like to program, play video games in my spare time and travel!
 
 ## About
 
-Hey! I'm Tornaido, a software engineer.
+Hey! I'm Tornaido, a software engineer. I live in Pakistan and I really love programming and have been programming since 2020.
 
 ## Projects
 
