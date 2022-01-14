@@ -21,7 +21,7 @@
 
 I like to program, play video games in my spare time and travel!
 
-### About
+## About
 
 Hey! I'm Tornaido, a software engineer.
 
