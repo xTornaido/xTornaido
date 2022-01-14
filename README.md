@@ -3,10 +3,13 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+
 
 ### Technologies
 
